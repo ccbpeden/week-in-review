@@ -1,4 +1,8 @@
 .packages {
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 20px;
+}
+
+p {
+  font-size: 16px;
 }
