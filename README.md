@@ -29,4 +29,4 @@ _html, css_
 
 *MIT*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Charles Peden_**
